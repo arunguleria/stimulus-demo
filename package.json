@@ -1,0 +1,25 @@
+{
+  "name": "stimulus-demo",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "5.4.0",
+    "postcss-import": "^12.0.1",
+    "stimulus": "^2.0.0",
+    "tiny-slider": "^2.9.2",
+    "tippy.js": "^5.1.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
